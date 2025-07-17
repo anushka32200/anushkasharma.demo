@@ -1,0 +1,26 @@
+body {
+    background-image: url("https://c2.vanceai.com/posts/16221731186022243-FeatBlueWhiteBackground.jpg")
+    
+    
+}
+
+section {
+
+
+}
+    
+
+header  {
+  font-size: 70px;
+  font-weight: 600;
+  background-image: linear-gradient(to left, #553c9a, #b393d3);
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+
+
+p {
+  border: 2px solid powderblue;
+  padding: 30px;
+}
