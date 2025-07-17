@@ -5,7 +5,22 @@ body {
 }
 
 section {
+h2{
+  color: blue;
+}
+p {
+  color: red;
+}
+background-color: rgba(255,255,255,0.9);
+  padding: 20px;
+  margin: 20px auto;
+  border-radius: 10px;
+  max-width: 600px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 
+  color: #333;
+  font-size: 24px;
+}
 
 }
     
@@ -24,3 +39,123 @@ p {
   border: 2px solid powderblue;
   padding: 30px;
 }
+
+
+
+article {
+  background-color: #f9f9f9;
+  padding: 20px;
+  margin: 20px auto;
+  border-radius: 10px;
+  max-width: 600px;
+  box-shadow: rgba(255,255,255,0.9);
+
+  color: #333;
+  font-size: 24px;
+}
+
+h3 {
+    background-color: #f9f9f9;
+  padding: 20px;
+  margin: 20px auto;
+  border-radius: 10px;
+  max-width: 600px;
+  box-shadow: rgba(255,255,255,0.9);
+
+  color: #333;
+  font-size: 24px;
+}
+
+h4  {
+    background-color: #f9f9f9;
+  padding: 20px;
+  margin: 20px auto;
+  border-radius: 10px;
+  max-width: 600px;
+  box-shadow: rgba(255,255,255,0.9);
+
+  color: #2807fa;
+  font-size: 24px;
+}
+
+
+table {
+background-color: #ebebf0;
+  padding: 20px;
+  margin: 20px auto;
+  border-radius: 10px;
+  max-width: 600px;
+  box-shadow: rgba(255,255,255,0.9);
+  border-collapse: collapse;
+  font-size:24px;
+  color: #333;
+  font-size: 24px;
+}
+
+h2  {
+    background-color: #f9f9f9;
+  padding: 20px;
+  margin: 20px auto;
+  border-radius: 10px;
+  max-width: 600px;
+  box-shadow: rgba(255,255,255,0.9);
+
+  color: #0539e6;
+  font-size: 24px;
+}
+
+
+form {
+    background-color: #f9f9f9;
+  padding: 20px;
+  margin: 20px auto;
+  border-radius: 10px;
+  max-width: 600px;
+  box-shadow: rgba(255,255,255,0.9);
+
+  color: #333;
+  font-size: 24px;
+}
+
+
+h5 {
+    background-color: #f9f9f9;
+  padding: 20px;
+  margin: 20px auto;
+  border-radius: 10px;
+  max-width: 600px;
+  box-shadow: rgba(255,255,255,0.9);
+
+  color: #0f22f1;
+  font-size: 24px;
+}
+
+button {
+    background-color: #04AA6D;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+label {
+    background-color: #516cc6;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+
+
+
