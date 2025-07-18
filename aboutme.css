@@ -1,11 +1,11 @@
 body {
-    background-image: url("https://c2.vanceai.com/posts/16221731186022243-FeatBlueWhiteBackground.jpg")
+    background-image: url("https://t3.ftcdn.net/jpg/03/69/00/58/360_F_369005893_UYbUUUHDiB0HT7vs7EpO0JZ4vf830R5K.jpg")
     
     
 }
 
 section {
-h2{
+h3{
   color: blue;
 }
 p {
@@ -22,7 +22,7 @@ background-color: rgba(255,255,255,0.9);
   font-size: 24px;
 }
 
-}
+
     
 
 header  {
@@ -35,14 +35,20 @@ header  {
 }
 
 
-p {
-  border: 2px solid powderblue;
+p1 {
+  font-size: 70px;
+  font-weight: 600;
+  background-image: linear-gradient(to left, #553c9a, #b393d3);
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
   padding: 30px;
+  
 }
 
 
-
 article {
+
   background-color: #f9f9f9;
   padding: 20px;
   margin: 20px auto;
@@ -54,33 +60,32 @@ article {
   font-size: 24px;
 }
 
-h3 {
-    background-color: #f9f9f9;
+h2 {
+   background-color: #f9f9f9;
   padding: 20px;
   margin: 20px auto;
   border-radius: 10px;
   max-width: 600px;
   box-shadow: rgba(255,255,255,0.9);
 
-  color: #333;
-  font-size: 24px;
-}
-
-h4  {
-    background-color: #f9f9f9;
-  padding: 20px;
-  margin: 20px auto;
-  border-radius: 10px;
-  max-width: 600px;
-  box-shadow: rgba(255,255,255,0.9);
-
-  color: #2807fa;
-  font-size: 24px;
 }
 
 
-table {
-background-color: #ebebf0;
+
+
+
+ h1 {
+  font-size: 100px;
+  font-weight: 900;
+  background-image: linear-gradient(to left, #553c9a, #b393d3);
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+
+
+p {
+  background-color: #ebebf0;
   padding: 20px;
   margin: 20px auto;
   border-radius: 10px;
@@ -89,10 +94,41 @@ background-color: #ebebf0;
   border-collapse: collapse;
   font-size:24px;
   color: #333;
+  font-size: 24px;
+}
+
+
+
+
+table {
+background-color: #ebebf0;
+  padding: 20px;
+  margin: 20px auto;
+  border-radius: 10px;
+  border: #f9f9f9;
+  border: 1px solid;
+  max-width: 600px;
+  box-shadow: rgba(255,255,255,0.9);
+  border-collapse: collapse;
+  font-size:24px;
+  color: #333;
+  font-size: 24px;
+}
+
+h2 {
+   background-color: #f9f9f9;
+  padding: 20px;
+  margin: 20px auto;
+  border-radius: 10px;
+  max-width: 600px;
+  box-shadow: rgba(255,255,255,0.9);
+
+  color: #0539e6;
   font-size: 24px;
 }
 
-h2  {
+
+h4 {
     background-color: #f9f9f9;
   padding: 20px;
   margin: 20px auto;
@@ -113,7 +149,7 @@ form {
   max-width: 600px;
   box-shadow: rgba(255,255,255,0.9);
 
-  color: #333;
+  color: #e8e1e1;
   font-size: 24px;
 }
 
@@ -155,7 +191,3 @@ label {
   margin: 4px 2px;
   cursor: pointer;
 }
-
-
-
-
