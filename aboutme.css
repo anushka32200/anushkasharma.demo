@@ -1,5 +1,5 @@
 body {
-    background-image: url("https://t3.ftcdn.net/jpg/03/69/00/58/360_F_369005893_UYbUUUHDiB0HT7vs7EpO0JZ4vf830R5K.jpg")
+    background-image: url("https://thumbs.dreamstime.com/b/key-dark-blue-computer-digital-background-internet-technology-information-security-web-access-concept-key-dark-blue-357620007.jpg")
     
     
 }
@@ -11,7 +11,7 @@ h3{
 p {
   color: red;
 }
-background-color: rgba(255,255,255,0.9);
+background-color: rgba(243, 239, 239, 0.9);
   padding: 20px;
   margin: 20px auto;
   border-radius: 10px;
@@ -35,6 +35,10 @@ header  {
 }
 
 
+
+
+
+
 p1 {
   font-size: 70px;
   font-weight: 600;
@@ -47,9 +51,12 @@ p1 {
 }
 
 
+
+
+
 article {
 
-  background-color: #f9f9f9;
+  background-color: #a59696;
   padding: 20px;
   margin: 20px auto;
   border-radius: 10px;
@@ -60,15 +67,26 @@ article {
   font-size: 24px;
 }
 
+
+
+
+
+
 h2 {
-   background-color: #f9f9f9;
+   background-color: #a9a5a5;
   padding: 20px;
   margin: 20px auto;
   border-radius: 10px;
   max-width: 600px;
-  box-shadow: rgba(255,255,255,0.9);
+  box-shadow: rgba(177, 168, 168, 0.9);
 
 }
+
+
+
+
+
+
 
 
 
@@ -84,8 +102,12 @@ h2 {
 }
 
 
+
+
+
+
 p {
-  background-color: #ebebf0;
+  background-color: #8f8f90;
   padding: 20px;
   margin: 20px auto;
   border-radius: 10px;
@@ -96,40 +118,52 @@ p {
   color: #333;
   font-size: 24px;
 }
+
+
+
 
 
 
 
 table {
-background-color: #ebebf0;
+background-color: #a9a9bd;
   padding: 20px;
   margin: 20px auto;
   border-radius: 10px;
-  border: #f9f9f9;
+  border: #585252;
   border: 1px solid;
   max-width: 600px;
-  box-shadow: rgba(255,255,255,0.9);
+  box-shadow: rgba(129, 124, 124, 0.9);
   border-collapse: collapse;
   font-size:24px;
   color: #333;
   font-size: 24px;
 }
 
+
+
+
+
+
 h2 {
-   background-color: #f9f9f9;
+   background-color: #ebeaea;
   padding: 20px;
   margin: 20px auto;
   border-radius: 10px;
   max-width: 600px;
-  box-shadow: rgba(255,255,255,0.9);
+  box-shadow: rgba(53, 51, 51, 0.9);
 
   color: #0539e6;
   font-size: 24px;
 }
+
+
+
+
 
 
 h4 {
-    background-color: #f9f9f9;
+    background-color: #f3ececec;
   padding: 20px;
   margin: 20px auto;
   border-radius: 10px;
@@ -141,8 +175,11 @@ h4 {
 }
 
 
+
+
+
 form {
-    background-color: #f9f9f9;
+    background-color: #aba7c8;
   padding: 20px;
   margin: 20px auto;
   border-radius: 10px;
@@ -152,6 +189,11 @@ form {
   color: #e8e1e1;
   font-size: 24px;
 }
+
+
+
+
+
 
 
 h5 {
@@ -166,6 +208,10 @@ h5 {
   font-size: 24px;
 }
 
+
+
+
+
 button {
     background-color: #04AA6D;
   border: none;
@@ -178,6 +224,11 @@ button {
   margin: 4px 2px;
   cursor: pointer;
 }
+
+
+
+
+
 
 label {
     background-color: #516cc6;
